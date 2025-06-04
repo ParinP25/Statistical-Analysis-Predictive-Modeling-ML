@@ -1,5 +1,5 @@
 # Statistical-Analysis-Predictive-Modeling-ML  
-Python, Google Colab Notebooks 
+Python, Google Colab Notebooks  
 Sept 2023 - Oct 2023 
 
 - Built machine learning models for forecasting trends and evaluated performance using regression metrics
